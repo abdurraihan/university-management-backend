@@ -10,7 +10,7 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
 // Testing
-app.get('/', (req: Request, res: any) => {
+app.get('/', (req: any, res: any) => {
   res.send('working university management  app ')
 })
 
