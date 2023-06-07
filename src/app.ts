@@ -1,11 +1,17 @@
+import express, { Application, Request, Response } from 'express'
+import cors from 'cors'
 
-import express, { Application } from 'express'
-const app:Application = express()
-const port = 3000
+const app: Application = express()
 
-app.get('/', (req, res) => {
-  res.send('Hello World!')
+app.use(cors())
+
+// parser
+app.use(express.json())
+app.use(express.urlencoded({ extended: true }))
+
+// Testing
+app.get('/', (req: Request, res: any) => {
+  res.send('working university management  app ')
 })
 
-
-export default app ;
+export default app
