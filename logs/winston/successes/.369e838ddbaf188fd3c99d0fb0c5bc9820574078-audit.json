@@ -1,20 +1,20 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\successes\\.369e838ddbaf188fd3c99d0fb0c5bc9820574078-audit.json",
+  "files": [
+    {
+      "date": 1686225158400,
+      "name": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\successes\\phu-2023-08-06-17-success.log",
+      "hash": "25d0d94b9d9a1669e74c6db057494a81b27d1397940b8c6e03f2fef155d189c3"
     },
-    "auditLog": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\successes\\.369e838ddbaf188fd3c99d0fb0c5bc9820574078-audit.json",
-    "files": [
-        {
-            "date": 1686225158400,
-            "name": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\successes\\phu-2023-08-06-17-success.log",
-            "hash": "25d0d94b9d9a1669e74c6db057494a81b27d1397940b8c6e03f2fef155d189c3"
-        },
-        {
-            "date": 1686225774878,
-            "name": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\successes\\phu-2023-08-06-18-success.log",
-            "hash": "77f409e3778bd23f70c903837ec28b1e5bcef53ef16e5bed1dfac48931437fed"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1686225774878,
+      "name": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\successes\\phu-2023-08-06-18-success.log",
+      "hash": "77f409e3778bd23f70c903837ec28b1e5bcef53ef16e5bed1dfac48931437fed"
+    }
+  ],
+  "hashType": "sha256"
 }

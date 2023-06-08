@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\successes\\.5823ca6358f6551e9b6090b5f3687bfd8f45848b-audit.json",
-    "files": [
-        {
-            "date": 1686225158408,
-            "name": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\successes\\phu-2023-08-06-17-error.log",
-            "hash": "475d511c2b8d86261b0b3062e32a06993ad0fff57ea624249a4640ab88fff110"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\successes\\.5823ca6358f6551e9b6090b5f3687bfd8f45848b-audit.json",
+  "files": [
+    {
+      "date": 1686225158408,
+      "name": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\successes\\phu-2023-08-06-17-error.log",
+      "hash": "475d511c2b8d86261b0b3062e32a06993ad0fff57ea624249a4640ab88fff110"
+    }
+  ],
+  "hashType": "sha256"
 }
