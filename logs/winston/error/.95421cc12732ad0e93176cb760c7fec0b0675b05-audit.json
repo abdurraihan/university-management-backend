@@ -1,20 +1,40 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\error\\.95421cc12732ad0e93176cb760c7fec0b0675b05-audit.json",
-  "files": [
-    {
-      "date": 1686225348364,
-      "name": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\error\\phu-2023-08-06-17-error.log",
-      "hash": "3a4f098f97993fcd71d6eca9585171cfce2744f370dcf73ab20a060a87286338"
+    "keep": {
+        "days": true,
+        "amount": 14
     },
-    {
-      "date": 1686225774884,
-      "name": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\error\\phu-2023-08-06-18-error.log",
-      "hash": "7ef5037b0cc4593f51b693219a4ef7b1c00f20febe1304357777ed0837f57d3f"
-    }
-  ],
-  "hashType": "sha256"
+    "auditLog": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\error\\.95421cc12732ad0e93176cb760c7fec0b0675b05-audit.json",
+    "files": [
+        {
+            "date": 1686225348364,
+            "name": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\error\\phu-2023-08-06-17-error.log",
+            "hash": "3a4f098f97993fcd71d6eca9585171cfce2744f370dcf73ab20a060a87286338"
+        },
+        {
+            "date": 1686225774884,
+            "name": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\error\\phu-2023-08-06-18-error.log",
+            "hash": "7ef5037b0cc4593f51b693219a4ef7b1c00f20febe1304357777ed0837f57d3f"
+        },
+        {
+            "date": 1686584526828,
+            "name": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\error\\phu-2023-12-06-21-error.log",
+            "hash": "c6ec60655f4adc0e576268ddfdeb4227108c4f791f2cd7c57fda2025bf6aee7d"
+        },
+        {
+            "date": 1686586206967,
+            "name": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\error\\phu-2023-12-06-22-error.log",
+            "hash": "228f7f1ade864a83e4f0264a759a83317f62c4dc1b470e12ceb32e153abaec7a"
+        },
+        {
+            "date": 1686590329875,
+            "name": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\error\\phu-2023-12-06-23-error.log",
+            "hash": "a90886c1fc28732e1d6707914016fc4c1624066fb96cf1057c172f40ab6e71f1"
+        },
+        {
+            "date": 1686845498914,
+            "name": "C:\\Users\\pc tech\\Desktop\\Next_level\\Univercity_project\\logs\\winston\\error\\phu-2023-15-06-22-error.log",
+            "hash": "997dd217b671fa9edb9c33ba8cf14cc166cf0d0ceb92b16b89b082e88ac4a3c0"
+        }
+    ],
+    "hashType": "sha256"
 }
